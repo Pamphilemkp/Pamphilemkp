@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pamphile mkp</h1>
-<h3 align="center">Full-stack software developer with a love of coding and learning new programming languages. I play chess in my spare timem do sport and love traveling. Open to new opportunities.</h3>
+<h3 align="center">Full-stack software developer with a love of coding and learning new programming languages. I play chess in my spare time, do sport and love traveling. Open to new opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamphilemkp&label=Profile%20views&color=0e75b6&style=flat" alt="pamphilemkp" /> </p>
 
