@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Redux, Ruby, Rails,Ruby on Rails.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pamphilemkp](https://github.com/Pamphilemkp)
+- 👨‍💻 All of my projects are available at [https://github.com/Pamphilemkp](https://github.com/Pamphilemkp?tab=repositories)
 
 - 💬 Ask me about **Javascript,Html and Css**
 
