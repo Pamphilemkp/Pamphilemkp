@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pamphilemkp" alt="pamphilemkp" /></a> </p>
 
-- 🔭 I’m currently working on **Leaderboard**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Javascript, React, Redux, Ruby, Rails,Ruby on Rails.**
+- 🌱 I’m currently learning **Nextjs, Cloud and Docker.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pamphilemkp](https://github.com/Pamphilemkp?tab=repositories)
 
-- 💬 Ask me about **Javascript,Html and Css**
+- 💬 Ask me about **Javascript,Html and Css, React, Redux, Ruby, Rails,Ruby on Rails.****
 
 - 📫 How to reach me **pamphilemkp@gmail.com**
 
