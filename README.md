@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pamphile mkp</h1>
+<h1 align="center">Hi 👋, I'm Pamphile MKP</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=155BF7&center=true&vCenter=true&lines=Full-stack+software+developer;with+a+love+of+coding+and+learning;new+programming+languages.;I+play+chess+in+my+spare+time%2C+;do+sport+and+love+traveling.;+Open+to+new+opportunities.)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pamphilemkp](https://github.com/Pamphilemkp?tab=repositories)
 
-- 💬 Ask me about **Javascript,Html and Css, React, Redux, Ruby, Rails,Ruby on Rails.****
+- 💬 Ask me about **Javascript,Html and Css, React, Redux, Nextjs, Mongodb,  Ruby, Rails,Ruby on Rails.****
 
 - 📫 How to reach me **pamphilemkp@gmail.com**
 
